@@ -1,6 +1,7 @@
 {
     "python.dataScience.jupyterServerURI": "local",
     "conventionalCommits.scopes": [
-        "The Snail and the Well"
+        "The Snail and the Well",
+        "Duel of Sorcerers"
     ]
 }
